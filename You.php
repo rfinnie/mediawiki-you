@@ -37,7 +37,7 @@ $wgExtensionCredits['specialpage'][] = array(
 	'path' => __FILE__,
 	'name' => 'You',
 	'author' => 'Ryan Finnie',
-	'url' => 'http://www.mediawiki.org/wiki/Extension:You',
+	'url' => 'https://github.com/rfinnie/mediawiki-you',
 	'descriptionmsg' => 'you-desc',
 	'version' => '1.0',
 );
